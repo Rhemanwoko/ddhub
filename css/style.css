@@ -26,15 +26,9 @@
     transform: scale(1.15);
 }
 
-
 #touch-section .left-touch h3 {
    width: 85%;
 }
-
-#picrow {
-    background: #f3f9fd;
-}
-
 .twoswiper {
     width: 65%;
     height: 350px;
