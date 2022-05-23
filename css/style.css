@@ -15,28 +15,10 @@
     background-attachment: fixed;
 }
 
-.text-about h3 {
-    font-size: 25px;
-    font-weight: 700;
-}
-.w3-animate-right {
-    animation-iteration-count: 3;
-    animation-duration: 4s;
-}
-
-.count-section {
-    background: black;
-}
-
-.partner-section {
-    padding: 15px 0;
-}
-
 .partner-section img {
     max-width: 45%;
     filter: grayscale(100);
     transition: all 0.4s ease-in-out;
-    padding: 15px 0;
 }
 
 .partner-section img:hover {
@@ -44,44 +26,14 @@
     transform: scale(1.15);
 }
 
-#touch-section {
-    background-color: #1E1B1B;
-}
-
-
-#touch-section .left-touch {
-    color: white;
-}
 
 #touch-section .left-touch h3 {
-   font-size: 48px;
    width: 85%;
-   margin-bottom: 64px;
-   line-height: 67px;
 }
-#touch-section .left-touch svg {
-    margin-right: 23px;
-}
-
-#touch-section .right-touch-div {
-    margin-bottom: 32px;
-}
-
-#touch-section .right-touch-div .right-touch-text {
-    color: white;
-    font-size: 18px;
-    margin-bottom: 8px;
-}
-#touch-section .right-touch-div .right-touch-no {
-   color: white;
-   font-size: 24px;
-}
-
 
 #picrow {
     background: #f3f9fd;
 }
-
 
 .twoswiper {
     width: 65%;
